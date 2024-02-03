@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o,c as t,e as c,a as n}from"./app-m4e0KER3.js";const r={},a=n("p",null,"本守则适用于2026届三班的所有网站。",-1);function s(_,l){return o(),t("div",null,[a,c(" more ")])}const i=e(r,[["render",s],["__file","index.html.vue"]]);export{i as default};
